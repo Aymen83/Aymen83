@@ -4,8 +4,6 @@
 
 I'm a Senior Software Developer with over 15 years of experience in the .NET ecosystem. My passion lies in solving complex business problems through clean, efficient, and scalable code. I specialize in **Microservices Architecture**, **Process Automation**, and building security-focused applications.
 
-I am currently seeking challenging **freelance opportunities** where I can leverage my expertise to build robust and high-quality software solutions.
-
 ---
 
 ### 🛠️ My Tech Stack
