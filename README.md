@@ -27,8 +27,6 @@ Here are a few projects I'm proud of.
 | Project | Description | Technologies Used |
 |---|---|---|
 | 🔗 **[AspectWeaver](https://github.com/Aymen83/AspectWeaver)** | A modern, high-performance Aspect-Oriented Programming (AOP) framework for .NET. It leverages C# 12 Source Generators & Interceptors to implement cross-cutting concerns (like logging, validation) without polluting business logic. | `.NET 8`, `C# 12`, `Source Generators`, `Interceptors` |
-| 🔜 **Project 2** | *(Add a short, compelling description for your next key project here.)* | `C#`, `React`, `Microservices` |
-| 🔜 **Project 3** | *(Add a short, compelling description for your third key project here.)* | `TypeScript`, `.NET`, `Azure` |
 
 ---
 
